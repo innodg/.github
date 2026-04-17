@@ -2,7 +2,7 @@
 
 ### ✍️ 사전 과제
 
-추후 안내
+👉 [https://github.com/innodg/preliminary-stages](https://github.com/innodg/preliminary-stages)
 
 ### 🤖 바이브 코딩
 
