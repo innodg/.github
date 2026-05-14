@@ -2,11 +2,11 @@
 
 ### ✍️ 사전 과제
 
-👉 [https://github.com/innodg/preliminary-stages](https://github.com/innodg/preliminary-stages)
+👉 ~~https://github.com/innodg/preliminary-stages~~ 종료
 
 ### 🤖 바이브 코딩
 
-추후 안내
+👉 [https://github.com/innodg/vibe-venture](https://github.com/innodg/vibe-venture)
 
 ### 🖥️ 프로젝트
 
